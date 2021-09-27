@@ -27,13 +27,7 @@ pipenv install --python 3.8
 pipenv shell
 ```
 
-<<<<<<< HEAD
 ### Install dependencies
-=======
-### Install Streamlit
-
-Streamlit has over 20 dependencies so the installation may take sometime in a new environment.
->>>>>>> 479f531b805f5094fe5bc6f47a8b2c6b5cc24582
 ```
 pip install -r requirements.txt
 ```
