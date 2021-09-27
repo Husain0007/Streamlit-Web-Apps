@@ -27,12 +27,13 @@ pipenv install --python 3.8
 pipenv shell
 ```
 
-### Install Streamlit
+### Install dependencies
 ```
-pip install streamlit
+pip install -r requirements.txt
 ```
 
 ### Deactivate the Virtual Enviornment
 ```
 exit
 ```
+
