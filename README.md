@@ -28,6 +28,8 @@ pipenv shell
 ```
 
 ### Install Streamlit
+
+Streamlit has over 20 dependencies so the installation may take sometime in a new environment.
 ```
 pip install streamlit
 ```
