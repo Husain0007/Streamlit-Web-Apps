@@ -37,3 +37,8 @@ pip install -r requirements.txt
 exit
 ```
 
+## Running Web App
+```
+streamlit run file.py
+```
+
